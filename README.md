@@ -7,10 +7,10 @@
 #### > Tela inicial 
 <img src="https://github.com/Guiiferreira/Projeto-A3---PSC/assets/96597054/fe04586f-cca4-4a94-b9e0-494b919a3867" width="400px" height="280px"/>
 
-#### > Primeiro Crud, cadastamento de produtos 
+#### > Primeiro Crud, cadastro de produtos 
 <img src="https://github.com/Guiiferreira/Projeto-A3---PSC/assets/96597054/983ac477-8ad1-452b-9181-d2e793444dc5" width="400px" height="280px"/>
 
-#### > Segundo Crud, cadastamento de funcionarios
+#### > Segundo Crud, cadastro de funcionarios
 <img src="https://github.com/Guiiferreira/Projeto-A3---PSC/assets/96597054/856bb52d-9aac-47ec-8f32-029693172852" width="400px" height="280px"/>
 
 
