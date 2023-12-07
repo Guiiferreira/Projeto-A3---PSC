@@ -1,6 +1,6 @@
 # Projeto-A3-PSC
 
-#### > Tela login e tela de cadastamento de usuário 
+#### > Tela login e tela de cadastro de usuário 
 <img src="https://github.com/Guiiferreira/Projeto-A3---PSC/assets/96597054/6d6c4077-219b-489e-8438-2e7cc113f554" width="400px" height="280px"/>
 <img src="https://github.com/Guiiferreira/Projeto-A3---PSC/assets/96597054/a8aa5d0b-8434-48d3-8fc1-3974d191cb57" width="400px" height="280px" />
 
