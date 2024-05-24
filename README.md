@@ -14,11 +14,3 @@
 <img src="https://github.com/Guiiferreira/Projeto-A3---PSC/assets/96597054/856bb52d-9aac-47ec-8f32-029693172852" width="400px" height="280px"/>
 
 
-# Integrantes do grupo
-| RA             |   Nome                                 |
-| -------------  | -------------                          |
-| 823122900      | Guilherme Pereira Nacimento Ferreira   |
-|  823135077     | Caio Mariano                           |
-|  823144030     | Guilherme Loula                        |
-|  823144189     |Taissa Almeida                          |
-|  823156386     |Victor Quintino                         |
